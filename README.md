@@ -1,2 +1,3 @@
 # pratikbsp
-first repository
+
+Hello i am Pratik Saxena,this is my first repository,Hope so i will do good in future.......
